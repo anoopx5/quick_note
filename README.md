@@ -1,16 +1,30 @@
-# quick_note
+# Quick Note App
 
-A new Flutter project.
+Flutter Note Saving Application
 
-## Getting Started
+## UI Screenshot
 
-This project is a starting point for a Flutter application.
+![](Screenshot_1.jpg), ![](Screenshot_2.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+## Packages
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+cloud_firestore: ^4.4.4 [Click Here](https://pub.dev/packages/cloud_firestore)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+firebase_core: ^2.7.1 [Click Here](https://pub.dev/packages/firebase_core)
+
+easy_splash_screen: ^1.0.4 [Click Here](https://pub.dev/packages/easy_splash_screen)
+
+firebase_database: ^10.0.16 [Click Here](https://pub.dev/packages/firebase_database)
+
+firebase_auth: ^4.2.10[Click Here](https://pub.dev/packages/firebase_auth)
+
+firebase_auth_web: ^5.2.10[Click Here](https://pub.dev/packages/firebase_auth_web)
+
+shared_preferences: ^2.0.20[Click Here](https://pub.dev/packages/shared_preferences)
+
+intl: ^0.17.0[Click Here](https://pub.dev/packages/intl)
+
+flutter_typeahead: ^4.3.7[Click Here](https://pub.dev/packages/flutter_typeahead)
+
+
+
