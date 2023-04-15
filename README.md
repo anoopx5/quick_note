@@ -1,6 +1,6 @@
 # Quick Note App
 
-Flutter Note Saving Application
+Flutter Note Saving Application with Firebase Database
 
 ## UI Screenshot
 
